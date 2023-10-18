@@ -1,3 +1,4 @@
+
 http://enkeltuttryckt.nu/feed/
 http://livetpabacken.se/feed/
 http://sprakforsvaret.bloggplatsen.se/rss/
@@ -41,6 +42,7 @@ https://bokugglor.blogspot.com/feeds/posts/default
 https://booksabc.com/feed/
 https://bookwitchpasvenska.wordpress.com/feed/
 https://bradpittsarmpit.se/feed/
+https://brezjnev.wordpress.com/feed/
 https://bubblanibibblan.wordpress.com/feed/
 https://bucketlife.se/feed/
 https://buttertarordet.blogspot.com/feeds/posts/default
@@ -97,6 +99,7 @@ https://glaceglimtar.blogg.se/index.rss
 https://goteborgshistoria.com/feed/
 https://gudmundson.blogspot.com/feeds/posts/default
 https://gustavsaktieblogg.blogspot.com/feeds/posts/default
+https://gyllenhaals.blogspot.com/feeds/posts/default
 https://hagevi.wordpress.com/feed/
 https://hakanshylla.blogspot.com/feeds/posts/default
 https://hannelesbibliotek.blogspot.com/feeds/posts/default
@@ -113,6 +116,7 @@ https://husbilsresorochaventyr.se/feed/
 https://hymn.se/feed/
 https://investera-pengar.blogspot.com/feeds/posts/default
 https://it-bloggen.com/feed/
+https://jagarchefen.blogspot.com/feeds/posts/default
 https://jahlinmarceta.se/feed/
 https://jardenberg.se/feed/
 https://jennifersandstrom.se/feed/
@@ -140,6 +144,7 @@ https://larsgahrnskriver.wordpress.com/feed/
 https://lasaochlyssna.wordpress.com/feed/
 https://lasfotoljen.blogspot.com/feeds/posts/default
 https://lasvardellerinte.blogspot.com/feeds/posts/default
+https://lavendelochsalvia.com/feed/
 https://lenasresor.wordpress.com/feed/
 https://liberalarts.blogg.gu.se/feed/
 https://lillabla.wordpress.com/feed/
@@ -169,9 +174,12 @@ https://nillasskafferi.blogg.se/index.rss
 https://nilsgustafsson.blogspot.com/feeds/posts/default
 https://nippertippas.wordpress.com/feed/
 https://nithrintaag.wordpress.com/feed/
+https://noboytoy.wordpress.com/feed/
 https://ofbooksandbirds.blogspot.com/feeds/posts/default
+https://oplatsen.wordpress.com/feed/
 https://pepparkaksbokhyllan.wordpress.com/feed/
 https://peppeohman.motherhood.se/feed/
+https://permonick.com/feed/
 https://petrusko.blogspot.com/feeds/posts/default
 https://piggelina.se/feed/atom/
 https://pockethexorna.blogspot.com/feeds/posts/default
@@ -184,6 +192,7 @@ https://religionsvetenskapligakommentarer.blogspot.com/feeds/posts/default
 https://rikatillsammans.se/feed/
 https://robbansbasta.se/feed/
 https://rogerlindqvist.blogg.se/index.rss
+https://rolfknilssonmyblog.wordpress.com/feed/
 https://samspelochklimat.com/feed/
 https://sardellen.wordpress.com/feed/
 https://sevendays.vasabladet.fi/bloggar/yllekristall/rss
@@ -194,6 +203,7 @@ https://slimis20.blogspot.com/feeds/posts/default
 https://snalanningen.se/feed/
 https://snaljapen.se/feed
 https://sparosverige.blogspot.com/feeds/posts/default
+https://statsvetenskapligtidskrift.org/feed/
 https://stockholmstunnelbana.blogg.se/index.rss
 https://stunderna.com/feed/
 https://supermamsen.com/feed/
@@ -204,9 +214,12 @@ https://tankar-i-trappen.blogspot.com/feeds/posts/default
 https://tankaromib.wordpress.com/feed/
 https://teknifik.se/feed/
 https://tekoppenstankar.se/feed/
+https://thesecretgardenerblog.wordpress.com/feed/
 https://tidochpengar.se/feed/
 https://tjock-tv.blogspot.com/feeds/posts/default
+https://tnsexton.wordpress.com/feed/
 https://tobiashubinette.wordpress.com/feed/
+https://totalforsvar.org/feed/
 https://trolleboll.com/feed/
 https://ugglanoboken.blogspot.com/feeds/posts/default
 https://ulfbjereld.blogspot.com/feeds/posts/default
@@ -253,6 +266,7 @@ https://www.momsens.se/rss.xml
 https://www.mothugg.se/feed/
 https://www.persaktieblogg.se/feed
 https://www.reklamfranforr.se/rss
+https://www.sarabackmo.se/feed/
 https://www.saramadeleine.se/feed/
 https://www.sararonne.se/feed/
 https://www.smaspararguiden.se/feed/
