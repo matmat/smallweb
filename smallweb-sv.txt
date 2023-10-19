@@ -1,4 +1,3 @@
-
 http://enkeltuttryckt.nu/feed/
 http://livetpabacken.se/feed/
 http://sprakforsvaret.bloggplatsen.se/rss/
@@ -21,8 +20,10 @@ https://attvaranagonsfru.elsasentourage.se/feed/
 https://ayshajones.elle.se/feed/
 https://barnrattsbloggen.wordpress.com/
 https://benitas-bokblogg.blogspot.com/feeds/posts/default
+https://bilderord.wordpress.com/feed/
 https://blog.zaramis.se/feed/
 https://blogg.mrpoyz.net/index.xml
+https://boborg.se/feed/
 https://bocker-emellan.blogspot.com/feeds/posts/default
 https://bokbloggerskan.blogspot.com/feeds/posts/default
 https://bokboxen.blogspot.com/feeds/posts/default
@@ -41,6 +42,7 @@ https://boktokig.blogspot.com/feeds/posts/default
 https://bokugglor.blogspot.com/feeds/posts/default
 https://booksabc.com/feed/
 https://bookwitchpasvenska.wordpress.com/feed/
+https://bp-computerart.blogspot.com/feeds/posts/default
 https://bradpittsarmpit.se/feed/
 https://brezjnev.wordpress.com/feed/
 https://bubblanibibblan.wordpress.com/feed/
@@ -88,6 +90,7 @@ https://feeds.feedburner.com/Fixarfarsan
 https://feeds.feedburner.com/StortOchSmtt
 https://feeds.feedburner.com/tystnad
 https://feministbiblioteket.se/feed/
+https://filmitch.wordpress.com/feed/
 https://flora.elle.se/feed/
 https://floridaliv.se/index.rss
 https://flyktlinjer.blogspot.com/feeds/posts/default
@@ -249,6 +252,7 @@ https://www.cinderalley.com/feed/
 https://www.deckarhuset.se/feed/
 https://www.enligto.se/feed/
 https://www.fiktiviteter.se/feed/
+https://www.freedomtravel.se/feed/
 https://www.fridlystarum.se/blogg?format=rss
 https://www.hannawendelbo.com/blog?format=rss
 https://www.islandsbloggen.com/feeds/posts/default
